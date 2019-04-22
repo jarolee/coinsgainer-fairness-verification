@@ -1,4 +1,4 @@
-const CG_GAMES_SALT = '';
+const CG_GAMES_SALT = '00000000000000000008f125261151e5a1812f3f34cf80f375943c687a9ba6b7'; // bitcoin block #572,752 hash
 const CG_MSB_NUMBER = 52; // MSB number (https://en.wikipedia.org/wiki/Bit_numbering#Most_significant_bit)
 const HEX_ENCODING = CryptoJS.enc.Hex;
 
